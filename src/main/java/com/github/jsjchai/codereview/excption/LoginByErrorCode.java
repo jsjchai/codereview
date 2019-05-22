@@ -1,7 +1,5 @@
 package com.github.jsjchai.codereview.excption;
 
-import com.sun.org.apache.bcel.internal.classfile.Code;
-
 /**
  * @author jsjchai.
  */
