@@ -13,7 +13,7 @@ public class ParamCheck {
     }
 
     public static void checkAge(int num) {
-        Preconditions.checkArgument(num > 11, "param illegal age=%s", num);
+        Preconditions.checkArgument(num > 11, "param illegal num=%s", num);
     }
 
     public static void main(String[] args) {
